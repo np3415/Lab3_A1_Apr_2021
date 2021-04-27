@@ -1,7 +1,7 @@
 # Lab3_A1_Apr_2021
-Galaxy counting algorithm
+Galaxy counting algorithm: A files guide
 
-The script containing the galaxy counting algorithm is in the  file.
+
 
 --------------------
 | NO RADIAL FILTER |
