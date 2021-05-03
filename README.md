@@ -4,7 +4,7 @@ Galaxy counting algorithm: A files guide
 
 
 --------------------
-| NO RADIAL FILTER |
+/ NO RADIAL FILTER /
 --------------------
 The following data files were obtained for no radial filter, up to 3.5 standard deviations above the mean beackground of the image:
 
@@ -24,7 +24,7 @@ Final Image (3.5sNRF_corrected_filter).fits:
   Viewable on SAOImage ds9
 
 -----------------
-| RADIAL FILTER |
+/ RADIAL FILTER /
 -----------------
 The following data files were obtained for a minimum radial filter of 1.9, up to 3.5 standard deviations above the mean background of the image:
 
@@ -44,7 +44,7 @@ Final Image (3.5sRF_corrected_filter).fits:
   Viewable on SAOImage ds9
 
 ---------
-| OTHER |
+/ OTHER /
 ---------
 Final Galaxy Counting Algorithm.py:
   Python script containing the algorithm
